@@ -13,3 +13,7 @@ To run this project, you need:
 - The following Go libraries:
   - `github.com/fogleman/fauxgl`
   - `github.com/hschendel/stl`
+
+## Example Output
+
+![Output.png](examples/output.png)
