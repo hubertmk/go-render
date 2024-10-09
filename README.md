@@ -1,4 +1,4 @@
-# Because sometimes ... you just need a thumbnail
+# Because sometimes ... you just need that thumbnail
 
 ## How it Works
 
