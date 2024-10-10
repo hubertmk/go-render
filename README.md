@@ -1,11 +1,11 @@
-# Because sometimes ... you just need that thumbnail
+## Because sometimes ... you just need that thumbnail
 
-## How it Works
+### How it Works
 
 - input.stl **in** 
 - output.png **out**
 
-## Prerequisites
+### Prerequisites
 
 To run this project, you need:
 
@@ -14,6 +14,6 @@ To run this project, you need:
   - `github.com/fogleman/fauxgl`
   - `github.com/hschendel/stl`
 
-## Example Output
+### Example Output
 
 ![Output.png](examples/output.png)
